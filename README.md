@@ -28,6 +28,8 @@
   <a href="https://kaggle.com/madoooaboelazaiem/a">
   <img align="left" alt="Ajay's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
 </a>
-</p>
 
-⭐️ (https://github.com/madoooaboelazaiem)
+<a href="https://github.com/madoooaboelazaiem">
+  <img align="left" alt="Ajay's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+</p>
