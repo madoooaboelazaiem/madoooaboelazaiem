@@ -22,9 +22,9 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/madoooaboelazaiem/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://kaggle.com/madoooaboelazaiem/"><img alt="Kaggle" src="https://img.shields.io/badge/"></a>
-<a href="mailto:madooo1998@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/madoooaboelazaiem/"><img alt="LinkedIn" ></a>
+<a href="https://kaggle.com/madoooaboelazaiem/"><img alt="Kaggle" ></a>
+<a href="mailto:madooo1998@hotmail.com"><img alt="Email" ></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/AVS1508)
+⭐️ (https://github.com/madoooaboelazaiem)
