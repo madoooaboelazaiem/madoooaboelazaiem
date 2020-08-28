@@ -22,9 +22,12 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/madoooaboelazaiem/"></a> [![alt text](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)]
-<a href="https://kaggle.com/madoooaboelazaiem/"><img alt="Kaggle" ></a>
-<a href="mailto:madooo1998@hotmail.com"><img alt="Email" ></a>
+  <a href="https://www.linkedin.com/in/madoooaboelazaiem/">
+  <img align="left" alt="Ajay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+  <a href="https://kaggle.com/madoooaboelazaiem/a">
+  <img align="left" alt="Ajay's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
+</a>
 </p>
 
 ⭐️ (https://github.com/madoooaboelazaiem)
