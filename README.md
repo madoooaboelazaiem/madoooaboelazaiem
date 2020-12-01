@@ -4,8 +4,8 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science at German University in Cairo.
-- 💼 &nbsp; Working as a Software Developer.
-- 🌱 &nbsp; Learning more about Data Science, Machine Learning and Artificial Intelligence.
+- 💼 &nbsp; Working as a Software Engineer.
+- 🌱 &nbsp; Learning more about Data Science, Machine Learning, Computer Vision and Artificial Intelligence.
 - ✍️ &nbsp; Eager to learn and have a great passion for experience gaining.
 
 <h3>🛠 Tech Stack</h3>
