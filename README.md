@@ -10,7 +10,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Javascript | Python | Java | C++ 
+- 💻 &nbsp; Javascript | Python | Java | C++ | C#
 - 🌐 &nbsp; Node.js | JavaScript | VueJS | ReactJS | HTML | CSS | OpenCV | Pandas | Numpy 
 - 🛢 &nbsp; PostgreSQL| MySQL | MongoDB | Objectionjs | Knexjs
 - 🔧 &nbsp; Git | Heroku | AWS | CI/CD | Cloudinary | Swagger
