@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Graduate from the German University in Cairo with a computer science bachelor's degree.
+- 🎓 &nbsp; Graduated from the German University in Cairo with a computer science bachelor's degree.
 - 💼 &nbsp; Working as a Software Engineer.
 - 🌱 &nbsp; Learning more about Data Science, Machine Learning, Computer Vision, Artificial Intelligence and Blockchains.
 - ✍️ &nbsp; Eager to learn and have a great passion for experience gaining.
