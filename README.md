@@ -11,7 +11,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Javascript | Python | Java | C++ | C#
-- 🌐 &nbsp; Node.js | JavaScript | Java (Netty) | VueJS | ReactJS | HTML | CSS | OpenCV | Pandas | Numpy 
+- 🌐 &nbsp; Node.js | JavaScript | Java (Netty) | VueJS | ReactJS | React-Native | HTML | CSS | OpenCV | Pandas | Numpy 
 - 🛢 &nbsp; PostgreSQL| MySQL | MongoDB | ArangoDB | Redis | RabbitMQ |  | Objectionjs | Knexjs
 - 🔧 &nbsp; Git | Heroku | AWS | CI/CD | Cloudinary | Swagger | Docker | Kubernetes
 
