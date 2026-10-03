@@ -1,4 +1,18 @@
-<h2> Hey there! I'm Mado.</h2>
+# Hey there! I'm Mado.
+
+<p align="center">
+  <a href="https://madoooaboelazaiem.github.io/portfolio/"><img src="[docs](https://github.com/madoooaboelazaiem/CV/tree/main/docs/img/hero.gif" alt="Animated preview: the 3D character draws itself in pencil, colours in, and is erased back to pencil by the cursor" width="820"></a>
+</p>
+
+<p align="center">
+  <a href="https://madoooaboelazaiem.github.io/portfolio/"><img src="https://img.shields.io/badge/live-site-1C2B4A" alt="Live site"></a>
+  <img src="https://img.shields.io/badge/runtime_dependencies-none-2F7A4F" alt="No runtime dependencies">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/code-MIT-blue" alt="Code: MIT"></a>
+</p>
+
+**Live:** [https://madoooaboelazaiem.github.io/portfolio/](https://madoooaboelazaiem.github.io/CV/) · **Editorial theme:** [https://madoooaboelazaiem.github.io/editorial/](https://madoooaboelazaiem.github.io/CV/editorial/)
+
+## Contents
 
 <h3> 👨🏻‍💻 About Me </h3>
 
